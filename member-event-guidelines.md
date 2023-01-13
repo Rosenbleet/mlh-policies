@@ -94,7 +94,7 @@ By partnering with MLH, you get access to all the following benefits and any add
 
 **Organizer Office Hours.** We understand that putting on a hackathon is a lot of work and there is so much to learn. That’s why we created a once per week, hour-long session for organizers to learn about some of the toughest aspects of hackathon organizing from MLHers and fellow organizers. We cover topics like fundraising, marketing, and leadership. Check out our full calendar of Organizer Office Hours ([https://mlh.io/seasons/office-hours/events](https://mlh.io/seasons/office-hours/events)) sessions.
 
-**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your in-person or digital events.  
+**Hackathon Organizer Guide.** All organizers have full access to MLH’s Hackathon Organizer Guide at [guide.mlh.io](https://guide.mlh.io). The guide is packed with information for you and your team to leverage as you plan your in-person or digital events.  
 
 **Hackcon Talks.** Each year we host a conference for hackathon organizers where our community shares their knowledge and experiences with one another. We have a library of past talks from organizers that you and your team can use to learn best practices. 
 
